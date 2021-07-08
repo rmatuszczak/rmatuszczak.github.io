@@ -32,6 +32,10 @@
 			border-radius: _size(border-radius);
 			opacity: 0;
 
+			&#resume{
+				width: 80rem;
+			}
+
 			&.timeout {
 				display: none;
 			}
